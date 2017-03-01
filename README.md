@@ -1,2 +1,3 @@
 # ML-Recommandations-Films
-Scripts du TP de recommandation de films
+Espace latent et factorisation matricielle
+TP ML 2016
